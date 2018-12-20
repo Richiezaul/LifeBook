@@ -1,0 +1,89 @@
+body {
+  background: #fafafa ;
+  color: #125688;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#main-container{
+  margin: 30px auto;
+
+
+}
+.cellphoneimg{
+max-width: 100%;
+align-self: auto;
+margin-top: 10%;
+
+
+
+}
+
+.site-footer{
+
+    text-transform: uppercase;
+    font-size: 12px
+
+}
+
+.login-box,
+.signup-box{
+background-color: white;
+border: 1px solid #edeeee;
+border-radius: 5px;
+padding: 10px 0;
+text-align: center;
+}
+
+.signup-box .lifeBook{
+font-family: 'Oleo Script', cursive;
+font-size: 42px
+}
+
+.signup-form{
+
+width: 65%;
+margin: 0 auto;
+color: #a5a7aa;
+font-size: 1.2em;
+
+
+}
+.signup-form h3{
+color: #a5a7aa;
+font-size: 32px;
+
+}
+
+.signup-form .btn.btn-fb:hover{
+
+background-color: #2d6599;
+
+}
+
+.signup-form .btn.btn-signup{
+
+    background-color: #2980b9
+
+}
+.signup-form .btn.btn-signup:hover{
+
+    background-color: #2c3e50
+}
+
+.facebookicon,
+.instagramicon,
+.twittericon{
+
+width: 50px ;
+height: 50px ;
+margin: 10px;
+
+}
+
+.facebookicon:hover,
+.instagramicon:hover,
+.twittericon:hover{
+
+    opacity: 0.5;
+
+}
